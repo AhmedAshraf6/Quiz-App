@@ -1,0 +1,82 @@
+[
+    {
+        "title" : "What is a CMS in web design",
+        "answer_1":"Content Management System",
+        "answer_2":"Creative Management System",
+        "answer_3":"Content Mixing System",
+        "answer_4":"Creatives Managerial System",
+        "right_answer":"Content Management System"
+    },
+    {
+        "title" : " To make your website mobile friendly, you can make your website",
+        "answer_1":"Responsive",
+        "answer_2":"Reactive",
+        "answer_3":"Fast Loading",
+        "answer_4":"Light",
+        "right_answer":"Responsive"
+    },
+    {
+        "title" : " What does CSS stand for",
+        "answer_1":"current Style Sheets",
+        "answer_2":" Current Sheets Style",
+        "answer_3":"Cascading Style Sheets",
+        "answer_4":"Cascading Sheets Style",
+        "right_answer":"Cascading Style Sheets"
+    },
+    {
+        "title" : " Which of the following statements is false",
+        "answer_1":"You can make a website without using HTML",
+        "answer_2":" You can make a website without using PHP",
+        "answer_3":"You can make a website without using CSS",
+        "answer_4":"You can make a website without using Javascript",
+        "right_answer":"You can make a website without using HTML"
+    },
+    {
+        "title" : "What is WordPress",
+        "answer_1":"It is a software used to press text",
+        "answer_2":"It is a text formatting software",
+        "answer_3":"It is a CMS (Content Management System)",
+        "answer_4":"It is mail service",
+        "right_answer":"It is a CMS (Content Management System)"
+    },
+    {
+        "title" : "SQL stands for ",
+        "answer_1":" Structured Query Language",
+        "answer_2":"Statistical Query Language",
+        "answer_3":"Superior Questions Lot",
+        "answer_4":"Standard Query Lot",
+        "right_answer":"Structured Query Language"
+    },
+    {
+        "title" : " Which of the following is true about Javascript",
+        "answer_1":"It is a server side scripting language",
+        "answer_2":"It is client side scripting language",
+        "answer_3":"It is a Software",
+        "answer_4":"It is a database",
+        "right_answer":"It is client side scripting language"
+    },
+    {
+        "title" : "Which of the following is true about PHP",
+        "answer_1":"It is a server side scripting language",
+        "answer_2":"It is client side scripting language",
+        "answer_3":"It is a Software",
+        "answer_4":"It is a database",
+        "right_answer":"It is server side scripting language"
+    },
+    {
+        "title" : " Which of the following is true ",
+        "answer_1":" You need a server to host your website files",
+        "answer_2":" You don’t need a server to host your website files",
+        "answer_3":"You can create a website without using HTML",
+        "answer_4":"It is a database",
+        "right_answer":" You need a server to host your website files"
+    },
+    {
+        "title" : " Which of the following softwares could be used to build a website",
+        "answer_1":" Power Point",
+        "answer_2":"Excel",
+        "answer_3":"Dream Weaver",
+        "answer_4":"ERP",
+        "right_answer":" Dream Weaver"
+    }
+]
